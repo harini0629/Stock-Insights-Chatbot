@@ -11,4 +11,4 @@
 🔹 Key Features: Real-time stock updates, AI-driven insights, stock trend plotting, contextual conversations
 🔹 Future Plans: Fine-tuning the AI model for improved financial accuracy, GCP deployment, and interactive visualization
 
-You can view the process flow diagram **[here](process_flow.html)**.
+![Descriptive Alt Text](path/to/yourimage.png)
