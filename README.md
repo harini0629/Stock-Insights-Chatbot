@@ -13,4 +13,4 @@
 2) Key Features: Real-time stock updates, AI-driven insights, stock trend plotting, contextual conversations
 
 
-![Descriptive Alt Text](stock-agent-api-latest.png)
+![Descriptive Alt Text](stock-agent-api-latest2.png)
