@@ -1,5 +1,5 @@
 # Stock Insights AI Chatbot
-
+## Features:
 <p style="font-size:24px"><b>AI-powered stock assistant</b></p>
 <p style="font-size:20px"> <b>Real-time stock prices</b></p>
 <p style="font-size:18px"> <b>AI-driven investment insights</b></p>
